@@ -1,0 +1,28 @@
+.box{
+	width: 100px;
+	height: 100px;
+}
+
+.red{
+	background-color: red;
+	margin: 100px 50px 30px;
+}
+
+.green{
+	background-color:green ;
+}
+.yellow{
+	background-color: yellow;
+	padding:100px ;
+}
+.blue{
+	background-color: blue;
+	border: 5px solid black;
+	padding: 50px;
+	margin: 100px;
+}
+
+.video{
+	width: 50%;
+	height: 400px;
+}
